@@ -21,7 +21,6 @@
 * Think about how we can check to see if a string is all uppercase. Reference the information below on manipulating strings. 
 * Think about the response as a return value.
 
-
 ## Manipulating Strings
 
 One of the things you'll need to determine is if the argument that the `speak_to_grandma` method takes in is formatted a certain way (all uppercase).
